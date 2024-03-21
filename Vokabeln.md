@@ -278,3 +278,21 @@ Einfach
 Vorderseite: Nenne die 3 Pfeiler der CIA-Triade?
 Rückseite: Confidentiality (Vertraulichkeit), Integrity (Inegrität/Korrektheit), Availability (Verfügbarkeit)  
 END
+
+START
+Einfach
+Vorderseite: Was ist ein Black Hat Hacker?
+Rückseite: Jemand, der sein Wissen über Computersysteme und Netzwerke nutzt, um Sicherheitsmaßnahmen zu umgehen, Daten zu stehlen, Systeme zu beschädigen oder auf andere Weise schädliche Aktivitäten durchzuführen.
+END
+
+START
+Einfach
+Vorderseite: Was ist ein Grey Hat Hacker?
+Rückseite: Jemand der nicht eindeutig den "White Hats" (ethischen Hackern) oder den "Black Hats" (böswilligen Hackern) zuordnen lassen. Grey Hats handeln in einer Art Grauzone, und ihre Motive und Handlungen können variieren
+END
+
+START
+Einfach
+Vorderseite: Was ist ein White Hat Hacker?
+Rückseite: Es sind ethische Hacker oder Sicherheitsexperten, die ihre Fähigkeiten nutzen, um Computersysteme zu schützen. In verschiedenen Bereichen tätig sein, einschließlich Penetrationstests, Sicherheitsberatung und Incident Response. 
+END
