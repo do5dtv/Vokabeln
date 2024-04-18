@@ -958,3 +958,10 @@ Was sollte vor der Einführung einer Kennzahl zur Informationssicherheit unbedin
 3. mit welchem Verfahren die Werte eine Kennzahl erhoben werden **[richtig]**
 4. wie die Ergebnisse vor der Leitung der Institution verborgen werden können
 END
+
+START
+Einfach
+Vorderseite: Wie sieht die Risikobehandlung aus?
+Rückseite: Risikivermeidung, Risikoreduktion Risikotransfer und Risikoakzeptanz
+Tags: 
+END
