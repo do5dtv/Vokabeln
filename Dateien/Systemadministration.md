@@ -9,7 +9,7 @@ END
 START
 Einfach
 Vorderseite: Welche Virtualisierungsumgebungen gibt es? Nenne zwei Beispiele.
-Rückseite: Hyper-V, Virtual Box, ...
+Rückseite: Hyper-V, Virtual Box, Proxmox, ...
 END
 
 START
