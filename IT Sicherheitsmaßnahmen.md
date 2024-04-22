@@ -239,7 +239,7 @@ END
 
 START
 Einfach
-Vorderseite: Was ist Verschlüsselung?
+Vorderseite: Was ist eine Verschlüsselung?
 Rückseite: Verschlüsselung schützt Daten durch unlesbaren Code
 END
 
@@ -275,7 +275,7 @@ END
 START
 Einfach
 Vorderseite: Was ist ein VPN?
-Rückseite: VPN ermöglicht sichere Verbindungen
+Rückseite: Ein Virtuelles Privates Netzwerk (VPN) ermöglicht sichere Verbindungen
 END
 
 
